@@ -1,0 +1,9 @@
+Zero,X,0
+Zero,x,0
+Khu,o,0
+Nichhay,x,0
+Raseth,j,0
+Nichhay,s,0
+nicc,a,0
+dd,d,0
+d,d,0
