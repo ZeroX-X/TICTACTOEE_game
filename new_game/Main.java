@@ -22,7 +22,7 @@ public class Main {
         System.out.print("Enter player name: ");
         String playerName = scanner.next();
 
-        // Assuming you want to use a single character as a symbol
+        //single character as a symbol
         System.out.print("Enter player symbol (single character): ");
         char playerSymbol = scanner.next().charAt(0);
 
